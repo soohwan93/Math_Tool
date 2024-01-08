@@ -1,0 +1,10 @@
+git init ==>working directory로 설정하고 그 안에 레포지토리 생성
+git config user.name "이름"
+git config user.email "이메일"
+git add 파일명(디렉토리명) 
+git status 
+git add . working directory 내의 파일 모두 스테이지 추가
+git reset 파일명 스테이지에 올린 파일 내리기 
+git commit -m "메시지" 메시지 내용대로 커밋
+git help 커맨드명 도움말 나옴
+man git-커맨드명 해도 됨
